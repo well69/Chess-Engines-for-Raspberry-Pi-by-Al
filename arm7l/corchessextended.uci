@@ -1,0 +1,147 @@
+[Elo@1500]
+UCI_Elo = 1500
+UCI_LimitStrength = true
+
+[Elo@1565]
+UCI_Elo = 1565
+UCI_LimitStrength = true
+
+[Elo@1630]
+UCI_Elo = 1630
+UCI_LimitStrength = true
+
+[Elo@1695]
+UCI_Elo = 1695
+UCI_LimitStrength = true
+
+[Elo@1760]
+UCI_Elo = 1760
+UCI_LimitStrength = true
+
+[Elo@1825]
+UCI_Elo = 1825
+UCI_LimitStrength = true
+
+[Elo@1890]
+UCI_Elo = 1890
+UCI_LimitStrength = true
+
+[Elo@1955]
+UCI_Elo = 1955
+UCI_LimitStrength = true
+
+[Elo@2020]
+UCI_Elo = 2020
+UCI_LimitStrength = true
+
+[Elo@2085]
+UCI_Elo = 2085
+UCI_LimitStrength = true
+
+[Elo@2150]
+UCI_Elo = 2150
+UCI_LimitStrength = true
+
+[Elo@2215]
+UCI_Elo = 2215
+UCI_LimitStrength = true
+
+[Elo@2280]
+UCI_Elo = 2280
+UCI_LimitStrength = true
+
+[Elo@2345]
+UCI_Elo = 2345
+UCI_LimitStrength = true
+
+[Elo@2410]
+UCI_Elo = 2410
+UCI_LimitStrength = true
+
+[Elo@2475]
+UCI_Elo = 2475
+UCI_LimitStrength = true
+
+[Elo@2540]
+UCI_Elo = 2540
+UCI_LimitStrength = true
+
+[Elo@2605]
+UCI_Elo = 2605
+UCI_LimitStrength = true
+
+[Elo@2670]
+UCI_Elo = 2670
+UCI_LimitStrength = true
+
+[Elo@2735]
+UCI_Elo = 2735
+UCI_LimitStrength = true
+
+[Elo@2800]
+UCI_Elo = 2800
+UCI_LimitStrength = false
+
+[Level@00]
+Skill Level = 0
+
+[Level@01]
+Skill Level = 1
+
+[Level@02]
+Skill Level = 2
+
+[Level@03]
+Skill Level = 3
+
+[Level@04]
+Skill Level = 4
+
+[Level@05]
+Skill Level = 5
+
+[Level@06]
+Skill Level = 6
+
+[Level@07]
+Skill Level = 7
+
+[Level@08]
+Skill Level = 8
+
+[Level@09]
+Skill Level = 9
+
+[Level@10]
+Skill Level = 10
+
+[Level@11]
+Skill Level = 11
+
+[Level@12]
+Skill Level = 12
+
+[Level@13]
+Skill Level = 13
+
+[Level@14]
+Skill Level = 14
+
+[Level@15]
+Skill Level = 15
+
+[Level@16]
+Skill Level = 16
+
+[Level@17]
+Skill Level = 17
+
+[Level@18]
+Skill Level = 18
+
+[Level@19]
+Skill Level = 19
+
+[Level@20]
+Skill Level = 20
+

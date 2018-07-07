@@ -1,0 +1,91 @@
+[DEFAULT]
+Hash = 64
+Threads = 1
+BestBookMove = false
+SyzygyPath = /opt/picochess/tablebases/syzygy
+Slow Mover = 84
+Move Overhead = 1000
+
+[Elo@1500]
+UCI_Elo = 1500
+UCI_LimitStrength = true
+
+[Elo@1575]
+UCI_Elo = 1575
+UCI_LimitStrength = true
+
+[Elo@1650]
+UCI_Elo = 1650
+UCI_LimitStrength = true
+
+[Elo@1725]
+UCI_Elo = 1725
+UCI_LimitStrength = true
+
+[Elo@1800]
+UCI_Elo = 1800
+UCI_LimitStrength = true
+
+[Elo@1875]
+UCI_Elo = 1875
+UCI_LimitStrength = true
+
+[Elo@1950]
+UCI_Elo = 1950
+UCI_LimitStrength = true
+
+[Elo@2025]
+UCI_Elo = 2025
+UCI_LimitStrength = true
+
+[Elo@2100]
+UCI_Elo = 2100
+UCI_LimitStrength = true
+
+[Elo@2175]
+UCI_Elo = 2175
+UCI_LimitStrength = true
+
+[Elo@2250]
+UCI_Elo = 2250
+UCI_LimitStrength = true
+
+[Elo@2325]
+UCI_Elo = 2325
+UCI_LimitStrength = true
+
+[Elo@2400]
+UCI_Elo = 2400
+UCI_LimitStrength = true
+
+[Elo@2475]
+UCI_Elo = 2475
+UCI_LimitStrength = true
+
+[Elo@2550]
+UCI_Elo = 2550
+UCI_LimitStrength = true
+
+[Elo@2625]
+UCI_Elo = 2625
+UCI_LimitStrength = true
+
+[Elo@2700]
+UCI_Elo = 2700
+UCI_LimitStrength = true
+
+[Elo@2775]
+UCI_Elo = 2775
+UCI_LimitStrength = true
+
+[Elo@2850]
+UCI_Elo = 2850
+UCI_LimitStrength = true
+
+[Elo@2925]
+UCI_Elo = 2925
+UCI_LimitStrength = true
+
+[Elo@3000]
+UCI_Elo = 3000
+UCI_LimitStrength = false

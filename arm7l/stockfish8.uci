@@ -1,0 +1,105 @@
+[Level@00] 
+Skill Level = 0 
+Slow Mover = 33
+Move Overhead = 2000
+
+[Level@01] 
+Skill Level = 1
+Slow Mover = 33
+Move Overhead = 2000
+
+[Level@02] 
+Skill Level = 2 
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@03] 
+Skill Level = 3 
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@04]
+Skill Level = 4
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@05]
+Skill Level = 5
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@06] 
+Skill Level = 6 
+Slow Mover = 33
+Move Overhead = 2000
+
+[Level@07]
+Skill Level = 7
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@08]
+Skill Level = 8
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@09] 
+Skill Level = 9 
+Slow Mover = 33
+Move Overhead = 2000
+
+[Level@10]
+Skill Level = 10
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@11]
+Skill Level = 11
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@12]
+Skill Level = 12
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@13]
+Skill Level = 13
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@14]
+Skill Level = 14
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@15]
+Skill Level = 15
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@16]
+Skill Level = 16
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@17]
+Skill Level = 17
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@18]
+Skill Level = 18
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@19]
+Skill Level = 19
+Slow Mover = 33 
+Move Overhead = 2000
+
+[Level@20]
+Skill Level = 20
+Slow Mover = 33 
+Move Overhead = 2000
+SyzygyPath = /opt/picochess/tablebases/syzygy
