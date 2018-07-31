@@ -266,3 +266,20 @@ Another engine based on stockfish. However, interesting ideas in the search algo
 The rest of the engines in this package are also largely stockfish derivatives, in which programmers have immortalized their handwriting with their own ideas. This is very well done in most cases.
 
 The DGT Pi really offers everything the chess heart needs with this engine package.
+
+
+leela
+1. sudo apt install cmake g++ git libboost-all-dev libopenblas-dev opencl-headers ocl-icd-libopencl1 ocl-icd-opencl-dev zlib1g-dev
+2. download file leela: https://drive.google.com/open?id=1w5WlCSLd8jBR_lQTj7cZNfehsR05cqgK
+3. put leela in /opt/picochess/engines/armv7l (make sure correct permissions are checked)
+4. download weights file: https://drive.google.com/open?id=1rSkimQLA0UUdUO_D9Svs4k1FvQ8-wUBq
+4. edit engines.ini
+      [lczero]
+      name = lczero v0.10
+      small = lczero
+      medium = lczero
+      large = lczero 0.10
+      elo = 1654
+ 5. put weights file in /opt/picochess
+ 
+
