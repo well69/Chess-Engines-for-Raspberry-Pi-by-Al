@@ -281,5 +281,5 @@ leela
       large = lczero 0.10
       elo = 1654
  5. put weights file in /opt/picochess
- 
+    see https://schach.computer/leela-chess-zero-auf-dem-dgt-pi/#comment-161
 
